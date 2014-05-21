@@ -7,13 +7,13 @@
 
 
 
-	var Something = require('../')
+	var Loader = require('../')
 
 
 
-	describe('Something', function(){
-		it('should', function(){
-
+	describe('the Loader', function(){
+		it('should not crash when instantiated', function(){
+			new Loader();
 		});		
 	});
 	
