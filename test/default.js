@@ -14,6 +14,10 @@
 	describe('the Loader', function(){
 		it('should not crash when instantiated', function(){
 			new Loader();
+		});	
+
+		it('should identify itself as loader', function(){
+			assert.equal(new Loader().isLoader(), true);
 		});		
 	});
 	
