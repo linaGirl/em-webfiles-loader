@@ -1,7 +1,7 @@
 {
       "name"                        : "em-webfiles-loader"
     , "description"                 : "Basic webfiles laoder Class which should be inherited by webfiles loaders"
-    , "version"                     : "0.1.2"
+    , "version"                     : "0.1.3"
     , "homepage"                    : "https://github.com/eventEmitter/em-webfiles-loader"
     , "author"                      : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "licence"                     : "mit"
