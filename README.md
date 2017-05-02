@@ -1,5 +1,7 @@
 # em-webfiles-loader
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/em-webfiles-loader.svg)](https://greenkeeper.io/)
+
 Basic webfiles laoder Class which should be inherited by webfiles loaders
 
 ## installation
